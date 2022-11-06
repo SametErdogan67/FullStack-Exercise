@@ -1,0 +1,39 @@
+div.image-size{
+    width: 200px;
+    height: 400px;
+}
+
+ol {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+.h1-headers{
+    text-align: center;
+    color: red;
+}
+.h3-header{
+    text-align: center;
+    color: blue;
+}
+
+.headers{
+    color: blueviolet;
+}
+
+.body-align{
+    text-align: center;
+}
+
+.products {
+    text-align: center;
+}
+nav ul a{
+    color: crimson;
+    text-align:right;
+    }
+nav ul li{
+    display: inline-block;
+}

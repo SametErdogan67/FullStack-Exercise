@@ -1,0 +1,16 @@
+.text-red{
+    color: red;
+
+}
+
+.text-blue{
+    color: blue;
+}
+
+#text-bold{
+    text-transform: uppercase;
+}
+
+div h1.text-red{
+    color: cyan;
+}
